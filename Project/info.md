@@ -21,8 +21,8 @@ Web-scraping the Oscar data
 Build 4 different adjacency matrix from :
 * Casting Similarity : Weighted by the number of common actors/actresses
 * Crew Similarity : Weighted by the number of common crew members
-* Keyword Similarity : Weighted by the number of common keyword (?)
-* Synopsis Similarity
+* Keyword (and Synopsis?) Similarity : Weighted by the number of common keyword (?)
+* Type Similarity
 
 ## Network Signal Filtering
 Filter out noise (high frequency) on the graph
