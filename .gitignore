@@ -6,3 +6,4 @@ Project/Data/csim_genre
 Project/Data/csim_keywords
 Project/Data/Adjacency_matrix.pickle
 Project/Data/Adjacency_weights.pickle
+Project/Data/*.pickle
