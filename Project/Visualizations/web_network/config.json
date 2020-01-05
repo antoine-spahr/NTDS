@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Antoine Spahr"
+  },
+  "text": {
+    "more": "Nodes color represent the number of nomination a movie got (Oscars + Golden Globes) : the darker the higher. \nThe nodes size represent the number of awards a movie got (Oscars + Golden Globes) : the bigger the higher. \nThe Network is represented as a cricle pack layout on the Component id, the modularity and the clustering coefficient.",
+    "intro": "The network is built to connect similar movies of the IMDb data sample from Kaggle. \nThe Goal is to use the network to structure to predict wether a movie will be nominated to an Award (Oscars or GoldenGlobes)",
+    "title": "IMDb network with Awards"
+  },
+  "legend": {
+    "edgeLabel": "Similarity of movies",
+    "colorLabel": "Nominations",
+    "nodeLabel": "Movies"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 8,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 15
+    },
+    "graphProperties": {
+      "maxEdgeSize": 2.5,
+      "minEdgeSize": 0.5,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
