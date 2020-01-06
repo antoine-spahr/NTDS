@@ -7,10 +7,10 @@ This repository contains the _Assignments_ and _Project_ of the Group 5 for the 
 ## Repository Structure
 There are two main folders:
 * **Assigments** which contains the jupyter notebooks of the two assignments.
-* **Project** which contains all the files relative to the project : _Predict Movie nomination to the Oscars or Golden Globes_.
+* **Project** which contains all the files relative to the project : _Network based prediction of movie nomination to the Oscars and the Golden Globes_.
 
 ## Member
 * Bizeul Alice
-* Carparlli Gaia
-* Vinzent Hughes
+* Carparelli Gaia
+* Vinzant Hugues
 * Spahr Antoine
