@@ -38,15 +38,15 @@ Try three models to predict a movie's nominations for an Awards:
   <br>|----- jupyter notebook `Data_merging.ipynb`
 
 * Graph construction
-  <br>|----- jupyter notbook `Similarity matrices construction.ipynb`
-  <br>|----- jupyter notbook `Adjacency construction.ipynb`
+  <br>|----- jupyter notebook `Similarity matrices construction.ipynb`
+  <br>|----- jupyter notebook `Adjacency construction.ipynb`
 
 * Graph exploration
-  <br>|----- jupyter notbook `Prior_exploration.ipynb`
-  <br>|----- jupyter notbook `Graph_exploration.ipynb`
+  <br>|----- jupyter notebook `Prior_exploration.ipynb`
+  <br>|----- jupyter notebook `Graph_exploration.ipynb`
 
 * Model construction and training
-  <br>|----- jupyter notbook `Machine_Learning.ipynb`
+  <br>|----- jupyter notebook `Machine_Learning.ipynb`
 
 ## Interactive visualisation of the Network
 [click here for the interactive web visualisation](https://antoine-spahr.github.io/Movie-Network-Visualisation/)
