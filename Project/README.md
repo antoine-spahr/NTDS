@@ -1,7 +1,7 @@
 # Will that Movie get an Awards ? <img src="Figures/oscars_img.png" alt="drawing" width="75"/>
 ---
 ## Project Goal
-The goal of this project is to predict whether a film will be nominated to an Oscar or a Golden Globes based on it's similarity with other film and some features.
+The goal of this project is to predict whether a film will be nominated to an Oscar or a Golden Globe based on its similarity with other films and some movie characteristics (features).
 
 ## Dataset used
 * We use the IMDB [dataset 5000-subset from Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata##tmdb_5000_movies.csv) for the movies features.
