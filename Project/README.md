@@ -50,6 +50,3 @@ Try three models to predict a movie's nominations for an Awards:
 
 ## Interactive visualisation of the Network
 [click here for the interactive web visualisation](https://antoine-spahr.github.io/Movie-Network-Visualisation/)
-
-## Contributions
-TO BE COMPLETED
